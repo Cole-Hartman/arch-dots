@@ -1,0 +1,25 @@
+╭───────────────────OTHER───────────────────╮
+
+Spring Registration | 11/12 5:30PM📌
+Covid shot📌
+CA ID / License / Plate BEFORE SUMMER📌
+Family tree 
+Upload hard drive 
+
+╭───────────────────SIDE PROJECTS───────────────────╮
+
+Nvim Plugin
+- Learn Nvim
+
+LeetClub 
+- Learn Expo 
+
+Linux Project
+-Linux kernal module
+-Linux Kernal
+-Linux distro
+
+Tmuxinator TODO Tracker
+- Get highligh plugin working
+
+Portfolio (grid design / integrated with blog) 

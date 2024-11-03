@@ -43,3 +43,33 @@ alias display='lxappearance'
 alias fzfs='~/scripts/fzf.sh'
 
 ###############
+
+# oh my posh
+eval "$(oh-my-posh init bash --config ~/.customposhthemes/custom_posh.omp.json)"
+
+# Set nvim as the default editor
+export VISUAL=nvim
+export EDITOR="$VISUAL"
+
+# Enable Vim mode in Bash
+set -o vi
+
+# Set a short timeout for key sequences
+INPUTRC=~/.inputrc
+echo "set keyseq-timeout 50" >> $INPUTRC
+
+# Custom key bindings in Vim mode
+bind -m vi-command '"\C-p": history-search-backward'
+bind -m vi-command '"\C-n": history-search-forward'
+bind -m vi-command '"\ew": kill-region'
+bind -m vi-insert '"\C-p": history-search-backward'
+bind -m vi-insert '"\C-n": history-search-forward'
+bind -m vi-insert '"\ew": kill-region'
+
+# fzf
+# bind '"\C-f":"fzfs\n"'
+# . "$HOME/.cargo/env"
+
+export PATH="$HOME/.bin:$PATH"
+source ~/.bin/tmuxinator.bash
+source ~/.tmuxinator.bash
