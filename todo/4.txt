@@ -1,4 +1,4 @@
-╭───────────────CECS 229───────────────╮
+╭──────────────CECS 229───────────────╮
         --Discrete Structures 2--
      OH: Tue/Thurs 11:30 - 1 | Zoom
 
@@ -19,9 +19,9 @@ Exam Regrade Request⚡
 
 
 
-────────────────────────────────────────
+───────────────────────────────────────
 ╭───────────────CECS 361──────────────╮
          --Scien Research Comm--
 
 Weekly Assignment
-Weekly Discussion⚡
+Weekly Discussion

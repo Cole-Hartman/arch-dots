@@ -67,8 +67,7 @@ bind -m vi-insert '"\C-n": history-search-forward'
 bind -m vi-insert '"\ew": kill-region'
 
 # fzf
-# bind '"\C-f":"fzfs\n"'
-# . "$HOME/.cargo/env"
+bind '"\C-f":"fzfs\n"'
 
 export PATH="$HOME/.bin:$PATH"
 source ~/.bin/tmuxinator.bash
