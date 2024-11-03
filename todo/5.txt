@@ -19,7 +19,4 @@ Linux Project
 -Linux Kernal
 -Linux distro
 
-Tmuxinator TODO Tracker
-- Get highligh plugin working
-
 Portfolio (grid design / integrated with blog) 
