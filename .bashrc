@@ -1,6 +1,5 @@
 # ~/.bashrc
 #
-
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
@@ -41,6 +40,7 @@ alias wifi='nmtui'
 alias wifir='nmcli device wifi rescan'
 alias display='lxappearance'
 alias fzfs='~/scripts/fzf.sh'
+alias matrix='unimatrix -s 92 -c white -a'
 
 ###############
 

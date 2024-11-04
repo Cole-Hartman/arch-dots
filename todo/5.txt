@@ -8,6 +8,10 @@ Upload hard drive
 
 ╭───────────────────SIDE PROJECTS───────────────────╮
 
+Arch
+- better groups
+- rollback
+
 Nvim Plugin
 - Learn Nvim
 
