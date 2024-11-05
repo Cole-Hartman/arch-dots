@@ -7,20 +7,20 @@ windows:
   - editor:
       layout: even-horizontal
       panes:
-        - nvim 1.txt
-        - nvim 2.txt
-        - nvim 3.txt
-        - nvim 4.txt
+        - nvim 1.md
+        - nvim 2.md
+        - nvim 3.md
+        - nvim 4.md
   - split:  
       layout: even-horizontal
       panes:
-        - nvim cal1.txt
-        - nvim cal2.txt
+        - nvim cal1.md
+        - nvim cal2.md
   - other:  
       layout: even-horizontal
       panes:
-        - nvim 5.txt
-        - nvim 6.txt
+        - nvim 5.md
+        - nvim 6.md
 
 
 # Optional tmux socket
