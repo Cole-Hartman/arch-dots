@@ -28,6 +28,7 @@ window {
     width:                       700px;
     x-offset:                    0px;
     y-offset:                    0px;
+
     enabled:                     true;
     margin:                      0px;
     padding:                     0px;
@@ -36,8 +37,6 @@ window {
     border-color:                @selected;
     background-color:            @background;
     cursor:                      "default";
-    fixed:                       true;
-    position:                    center;
 }
 
 /*****----- Main Box -----*****/

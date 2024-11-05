@@ -36,6 +36,7 @@ alias td='tmuxinator todo'
 
 alias matrix='unimatrix -s 92 -c white -a'
 alias bonsai='cbonsai -l'
+alias fzfs='~/scripts/fzf.sh'
 
 
 # ▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖ ▗▄▄▖
