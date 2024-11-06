@@ -1,0 +1,64 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FiPenTool",
+      "FiAlignCenter",
+      "FiAlignLeft",
+      "FiEdit3",
+      "FiEye"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Remote/Class": {
+    "iconName": "FiEdit3",
+    "iconColor": "#d1a442"
+  },
+  "Remote/CS/Backend": {
+    "iconName": "FiAlignCenter",
+    "iconColor": "#ff0000"
+  },
+  "Remote/CS/Backend/Node.js": "FiAlignLeft",
+  "Remote/CS/Frontend": {
+    "iconName": "FiAlignCenter",
+    "iconColor": "#eb670f"
+  },
+  "Remote/CS/Frontend/Java Script": {
+    "iconName": "FiAlignCenter",
+    "iconColor": "#ff0000"
+  },
+  "Remote/Excalidraw": {
+    "iconName": "FiPenTool",
+    "iconColor": "#90375a"
+  },
+  "Remote/CS/Frontend/React": {
+    "iconName": "FiAlignLeft",
+    "iconColor": "#ff0000"
+  },
+  "Remote/CS/Frontend/Next.js": {
+    "iconName": "FiAlignLeft",
+    "iconColor": "#ff0000"
+  }
+}

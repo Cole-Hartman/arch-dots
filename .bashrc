@@ -21,6 +21,7 @@ PS1='[\u@\h \W]\$ '
 
 alias la='ls -A'
 alias neob='cd ~/.config/nvim'
+alias obs='cd ~/Documents/obsidian-vault/'
 alias ..='cd ..'
 alias b='cd ~/'
 alias c='clear'
@@ -37,7 +38,7 @@ alias td='tmuxinator todo'
 alias matrix='unimatrix -s 92 -c white -a'
 alias bonsai='cbonsai -l'
 alias fzfs='~/scripts/fzf.sh'
-
+alias tt='tt -theme nord'
 
 # ▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖ ▗▄▄▖
 # ▐▛▚▞▜▌  █  ▐▌   ▐▌
